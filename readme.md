@@ -42,7 +42,3 @@ This addon provides a fully configured Microsoft SQL Server instance that's read
 | `MSSQL_PID` | SQL Server edition | `Developer` |
 | `ACCEPT_EULA` | EULA acceptance | `Y` |
 | `MSSQL_URL` | Connection string | Auto-generated |
-
-## Connection Information
-
-### Connection String
